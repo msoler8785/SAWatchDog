@@ -1,0 +1,6 @@
+C:\Users\Matt Soler\documents\visual studio 2013\Projects\SAWatchDog\SAWatchDog\bin\Release\SAWatchDog.exe.config
+C:\Users\Matt Soler\documents\visual studio 2013\Projects\SAWatchDog\SAWatchDog\bin\Release\SAWatchDog.exe
+C:\Users\Matt Soler\documents\visual studio 2013\Projects\SAWatchDog\SAWatchDog\bin\Release\SAWatchDog.pdb
+C:\Users\Matt Soler\documents\visual studio 2013\Projects\SAWatchDog\SAWatchDog\obj\Release\SAWatchDog.exe
+C:\Users\Matt Soler\documents\visual studio 2013\Projects\SAWatchDog\SAWatchDog\obj\Release\SAWatchDog.pdb
+C:\Users\Matt Soler\documents\visual studio 2013\Projects\SAWatchDog\SAWatchDog\obj\Release\SAWatchDog.csprojResolveAssemblyReference.cache

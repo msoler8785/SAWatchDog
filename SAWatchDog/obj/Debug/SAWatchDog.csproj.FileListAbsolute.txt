@@ -1,0 +1,5 @@
+c:\users\matt soler\documents\visual studio 2013\Projects\SAWatchDog\SAWatchDog\bin\Debug\SAWatchDog.exe.config
+c:\users\matt soler\documents\visual studio 2013\Projects\SAWatchDog\SAWatchDog\bin\Debug\SAWatchDog.exe
+c:\users\matt soler\documents\visual studio 2013\Projects\SAWatchDog\SAWatchDog\bin\Debug\SAWatchDog.pdb
+c:\users\matt soler\documents\visual studio 2013\Projects\SAWatchDog\SAWatchDog\obj\Debug\SAWatchDog.exe
+c:\users\matt soler\documents\visual studio 2013\Projects\SAWatchDog\SAWatchDog\obj\Debug\SAWatchDog.pdb
